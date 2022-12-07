@@ -1,0 +1,5 @@
+.pub-cache/hosted/pub.dartlang.org/js-0.6.3-nullsafety.1/lib/js.dart
+
+export 'dart:js' show allowInterop, allowInteropCaptureThis;
+
+uncomment next update, fail to compile if uncomented actually
